@@ -6,7 +6,16 @@ Presentation Link - [Phishing](https://drive.google.com/file/d/1QPgKuegr91CGJOWg
 This Presentation on Phishing Covers
 
 1.Introduction to Phishing Attacks
+
+
 2.Types of Phishing Attacks
+
+
+
 3.Phishing Attacks in Social Media
+
+
 4.Ways to Detect Phishing Attacks
+
+
 5.Prevention of Phishing Attacks
